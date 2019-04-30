@@ -31,7 +31,9 @@ namespace Keylogger.Keylogger
             }
             catch (Exception e)
             {
+                #if DEBUG
                 Console.WriteLine(e.Message);
+                #endif
             }
         }
     }
