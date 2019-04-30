@@ -1,0 +1,11 @@
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe.manifest
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\bin\Debug\Keylogger.application
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.exe.manifest
+C:\Users\timot\Documents\C#\Keylogger\Keylogger\obj\Debug\Keylogger.application
