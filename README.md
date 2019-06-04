@@ -1,3 +1,4 @@
 # automatic-keylogger
 
-- Make sure to enable allow-less-secure-apps on your gmail account, otherwise the program will not be able to send any info.
+- This is only made for educational purposes only.
+- Email sending requires allow-less-secure-apps enabled in the gmail settings. 
